@@ -1,2 +1,2 @@
-# ebra
+# EBRA
 Entropy Brain
